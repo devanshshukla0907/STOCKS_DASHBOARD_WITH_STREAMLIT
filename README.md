@@ -88,10 +88,14 @@ key = 'YOUR_ALPHA_VANTAGE_API_KEY'
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-Streamlit
-Alpha Vantage
-Yahoo Finance
-Plotly
+Streamlit   
+
+Alpha Vantage   
+
+Yahoo Finance   
+
+Plotly   
+
 
 ## Contributing
 Feel free to submit issues, fork the repository, and send pull requests. For major changes, please open an issue first to discuss what you would like to change.
