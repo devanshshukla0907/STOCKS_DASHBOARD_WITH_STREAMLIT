@@ -15,8 +15,8 @@ This project is a Streamlit-based application for analyzing stock data. It provi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/devanshshukla0907/stock-analysis-dashboard.git
-    cd stock-analysis-dashboard
+    git clone https://github.com/devanshshukla0907/STOCKS_DASHBOARD_WITH_STREAMLIT.git
+    cd STOCKS_DASHBOARD_WITH_STREAMLIT
     ```
 
 2. Install the required dependencies:
